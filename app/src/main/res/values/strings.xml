@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiJsonTest</string>
+    <string name="btn">通信開始</string>
+</resources>
